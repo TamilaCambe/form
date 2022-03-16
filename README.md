@@ -6,3 +6,12 @@
 
 <img src="https://github.com/TamilaCambe/form/blob/main/images/img1.PNG">
  
+ ## 💻 Technologies used
+
+ * Visual Studio Code (Code editor);
+
+* HTML;
+
+* CSS;
+
+ 
