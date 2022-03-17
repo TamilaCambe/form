@@ -4,7 +4,7 @@
 
 ![Badge](https://img.shields.io/static/v1?label=DEV&message=Tamila&color=ba55d3&style=flat&logo=)
 
-<img src="https://github.com/TamilaCambe/form/blob/main/images/img1.PNG">
+<img src="https://github.com/TamilaCambe/form/blob/main/Cadastro.png">
  
  ## 💻 Technologies used
 
